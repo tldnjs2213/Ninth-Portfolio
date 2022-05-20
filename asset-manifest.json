@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ninth-Portfolio/static/css/main.dd66e9dc.chunk.css",
+    "main.js": "/Ninth-Portfolio/static/js/main.395128f6.chunk.js",
+    "main.js.map": "/Ninth-Portfolio/static/js/main.395128f6.chunk.js.map",
+    "runtime-main.js": "/Ninth-Portfolio/static/js/runtime-main.3490d856.js",
+    "runtime-main.js.map": "/Ninth-Portfolio/static/js/runtime-main.3490d856.js.map",
+    "static/js/2.59b0d8aa.chunk.js": "/Ninth-Portfolio/static/js/2.59b0d8aa.chunk.js",
+    "static/js/2.59b0d8aa.chunk.js.map": "/Ninth-Portfolio/static/js/2.59b0d8aa.chunk.js.map",
+    "index.html": "/Ninth-Portfolio/index.html",
+    "precache-manifest.80c0096ad912afe695e173b1f3e74378.js": "/Ninth-Portfolio/precache-manifest.80c0096ad912afe695e173b1f3e74378.js",
+    "service-worker.js": "/Ninth-Portfolio/service-worker.js",
+    "static/css/main.dd66e9dc.chunk.css.map": "/Ninth-Portfolio/static/css/main.dd66e9dc.chunk.css.map",
+    "static/js/2.59b0d8aa.chunk.js.LICENSE.txt": "/Ninth-Portfolio/static/js/2.59b0d8aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3490d856.js",
+    "static/js/2.59b0d8aa.chunk.js",
+    "static/css/main.dd66e9dc.chunk.css",
+    "static/js/main.395128f6.chunk.js"
+  ]
+}
